@@ -9,7 +9,7 @@
  <div>
   <a href="https://github.com/Madcruz1986">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madcruz1986&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madcruz1986&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madcruz1986&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 ### 🖥️ Tecnologias e Ferramentas: 
