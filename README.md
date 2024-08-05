@@ -1,8 +1,7 @@
 ## Olá! Eu sou Michel Cruz
 
-- 🔭 Hoje estou trabalhando com Análise de Dados
-- 🌱 Estudando Análise de Dados
-- 📫 Contacte-me no email: micheldcruz@gmail.com
+- 🔭 Hoje estou trabalhando com Engenharia de Dados
+- 📫 Contacte-me no email: ctl_mduarte@uolinc.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fato engraçado sobre mim: Sou baiano e alérgico a azeite de dendê!
 
